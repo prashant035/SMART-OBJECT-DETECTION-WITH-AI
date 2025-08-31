@@ -16,3 +16,5 @@ Ultralytics YOLOv8 – For AI object detection
 gTTS (Google Text-to-Speech) – For audio output
 PyTorch – Required for YOLO model
 Other utilities – OS, time, threading
+
+NOTE .. FOR FASTER PROCESSING AND BETTER RESULT YOU CAN DOWNLOAD ANOTHER YOLOV8 MODEL WITH YOU CHOICE
